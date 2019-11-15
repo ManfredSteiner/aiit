@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573816350 source:/work/m18-2ahme/aiit/2ahme/ue02_ausgabe/main.c
+	<stdio.h>
+	<math.h>
+
